@@ -149,6 +149,23 @@ a:hover {
     color: rgb(234, 233, 245); 
     margin: 10;
 }
+.viewall_scholarship p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewall_scholarship img {
+    width: 50px; /* Adjust width as needed */
+    margin-left: 5px; /* Add spacing between the text and logo */
+}
+
+
+.viewall_scholarship .logo {
+    font-weight: bold; /* Optionally make the word "Scholarship" bold */
+}
+
+
 
 .home_viewall_rightside {
     flex: 1; 
