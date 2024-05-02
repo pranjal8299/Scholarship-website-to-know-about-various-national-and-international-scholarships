@@ -48,18 +48,348 @@ let scholarships = [{
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
     photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
 },
+
+
+
+
+
+
+
+
 {
-    desc: "Aapki Beti Hamari Beti Scheme, Haryana",
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
-    state: "haryana",
+    state: "uttar pradesh",
     category: "sc",
-    gender: "F",
-    class: "under 8",
+    gender: "M",
+    class: "under 10",
     company: "",
     university: "",
-    visit_website: "https://wcdhry.gov.in/schemes-for-children/abhb",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
     photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
 },
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "M",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "M",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "M",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "M",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sT",
+    gender: "M",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "M",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "M",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "M",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "F",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "F",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "F",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "F",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "F",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sT",
+    gender: "F",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "F",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "F",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "F",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "other",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "other",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sc",
+    gender: "other",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "other",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "st",
+    gender: "other",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "sT",
+    gender: "other",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "other",
+    class: "under 10",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "other",
+    class: "12",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+{
+    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    country: "INDIA",
+    state: "uttar pradesh",
+    category: "obc",
+    gender: "other",
+    class: "Graduation",
+    company: "",
+    university: "",
+    visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+},
+
+
+
+
+
+
+
+
+
+
 {
     desc: "Scholarship by govt of india",
     country: "INDIA",
