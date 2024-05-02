@@ -1,0 +1,190 @@
+body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Montserrat', sans-serif;
+        background-color: #fff;
+        color: rgb(15, 56, 110);
+    }  
+.ligoimage {
+    display: flex;
+    align-items: center;
+}
+
+.ligoimage img {
+    max-height: 200px; /* Adjust the max-height of the logo image */
+    margin-right: 0px; /* Add some spacing between the logo and the floating menu */
+}
+
+.floating {
+    background-color: rgb(35 163 163);
+    color: rgb(234, 233, 245);
+    height: 100px; /* Adjust the height as needed */
+    width: auto; /* Set width to auto to fit content */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Align items to the right */
+    padding: 0 0px; /* Add padding to the left and right */
+}
+
+.floating ul {
+    list-style: none;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin: 10px;
+    padding: 10px;
+}
+
+.floating ul li {
+    padding: 0 20px; /* Add padding to the left and right */
+}
+
+.floating ul li a {
+    color: rgb(245, 243, 243);
+    text-decoration: none;
+    font-size: 14px; /* Adjust font size as needed */
+}
+.menu {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.text {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.text h1 {
+    font-size: 3em;
+}
+.text h4 {
+    font-size: 1.5em;
+}
+body {
+    padding: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+
+a {
+    color: #7b2783;
+}
+
+
+a:hover {
+    color: #1309da; 
+}
+
+
+.text-below-links {
+    text-align: center;
+    margin-top: 50px; 
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: rgb(210, 236, 245);
+}
+
+.home_viewall {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(210, 236, 245); 
+    padding: 20px; 
+    border-radius: 10px;
+    max-width: 800px; 
+    margin: auto;
+    margin-left: 0px;
+}
+
+.home_viewall_leftside {
+    flex: 1; 
+    margin-right: 20px;
+}
+
+.viewall_scholarship {
+    background-color: #a03838; 
+    padding: 5px;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.viewall_scholarship ul {
+    margin-top: 10px;
+    list-style-type: none;
+    padding: 30;
+    margin: 0;
+    margin-left: 0px;
+}
+
+.viewall_scholarship ul li {
+    margin-bottom: 10px;
+}
+
+.viewall_scholarship ul li a {
+    text-decoration: none;
+    color:rgb(234, 233, 245);
+}
+
+.viewall_scholarship ul li a p {
+    color: rgb(234, 233, 245); 
+    margin: 10;
+}
+
+.home_viewall_rightside {
+    flex: 1; 
+}
+.viewall_scholarship2 {
+    background-color: #db5a14; 
+    padding: 5px;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.viewall_scholarship2 ul {
+    margin-top: 10px;
+    list-style-type: none;
+    padding: 30;
+    margin: 0;
+    margin-left: 0px;
+}
+
+.viewall_scholarship2 ul li {
+    margin-bottom: 10px;
+}
+
+.viewall_scholarship2 ul li a {
+    text-decoration: none;
+}
+
+.viewall_scholarship2 ul li a p {
+    color: rgb(234, 233, 245); 
+    margin: 10;
+}
+
+
+.photo img {
+    max-width: 150%;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+

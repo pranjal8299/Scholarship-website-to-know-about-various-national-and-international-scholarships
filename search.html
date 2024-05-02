@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/x-icon" href="phtos/favicon.ico">
+    <link rel="stylesheet" href="css/k.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/body.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Scholarships according to you</title>
+</head>
+<body>
+    <div class="search">
+    <label for="present_class">Present Class</label>
+    <select name="present_class" id="present_class">
+        <option value="" selected>Class</option>
+        <option value="Graduation">Graduation</option>
+        <option value="under 10">under 10</option>
+        <option value="under 8">under 8</option>
+        <option value="12">12</option>
+        <option value="Post Graduation">Post Graduation</option>
+        <option value="Phd">Phd</option>
+    </select>
+
+    <label for="gender">Gender</label>
+    <select name="gender" id="gender">
+        <option value="">Gender</option>
+        <option value="M">M</option>
+        <option value="F">F</option>
+        <option value="Other">Other</option>
+        <option value="everyone">everyone</option>
+    </select>
+
+    <label for="country">Country</label>
+    <select name="country" id="country">
+        <option value="">Country</option>>
+        <option value="INDIA">INDIA</option>
+        <option value="UK">UK</option>
+    </select>
+
+    <label for="state">State</label>
+    <select name="state" id="state">
+        <option value="">State</option>
+        <option value="uttar pradesh">Uttar Pradesh</option>
+        <option value="assam">assam</option>
+        <option value="haryana">haryana</option>
+        <option value="all over india">all over india</option>
+
+
+    </select>
+
+    <label for="category">Category</label>
+    <select name="category" id="category">
+        <option value="">Category</option>
+        <option value="sc">sc</option>
+        <option value="st">st</option>
+        <option value="obc">obc</option>
+        <option value="all">all</option>
+        <option value="General">General</option>
+    </select>
+
+    <button id="button" onclick="refresh()">Search Your Scholarships</button>
+
+    <div id="linksContainer" class="mt-4"></div>
+</div>
+</body>
+<script src="java/filter.js"></script>
+</html>

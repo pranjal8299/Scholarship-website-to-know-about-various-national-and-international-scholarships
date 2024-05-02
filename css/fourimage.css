@@ -1,0 +1,21 @@
+.dontainer {
+    text-align: center;
+  }
+  
+  .pmages {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+  }
+  
+  .pmages a img {
+    width: 370px;
+    padding: 0px;
+    margin: 20px;
+    height: auto;
+  }
+  
+  .non-clickable {
+    pointer-events: none;
+  }
+  
