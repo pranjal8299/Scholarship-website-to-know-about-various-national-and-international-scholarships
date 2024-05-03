@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #9ff3ed;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -12,14 +12,15 @@ select {
 
 button {
     padding: 10px 20px;
-    background-color: #095858;
-    color: #b9f3f8;
+    background-color: rgb(35 163 163);
+    color: #032d31;
     border: none;
     cursor: pointer;
+    border-radius: 30px;
 }
 
 button:hover {
-    background-color: #023b3b;
+    background-color: #386363;
 }
 
 #info {
@@ -43,5 +44,6 @@ a:hover {
 
 .search{
     color: rgb(6, 49, 92);
-    background-color: rgb(35 163 163);
+    background-color: rgb(206, 230, 230);
+    
 }
