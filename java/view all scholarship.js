@@ -76,7 +76,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -88,7 +88,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -100,7 +100,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -112,7 +112,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -124,7 +124,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -136,7 +136,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sT",
@@ -148,7 +148,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -160,7 +160,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -172,7 +172,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -184,7 +184,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -196,7 +196,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -208,7 +208,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -220,7 +220,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -232,7 +232,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -244,7 +244,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sT",
@@ -256,7 +256,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -268,7 +268,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -280,7 +280,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -292,7 +292,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -304,7 +304,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -316,7 +316,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sc",
@@ -328,7 +328,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -340,7 +340,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "st",
@@ -352,7 +352,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "sT",
@@ -364,7 +364,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR PREMATRIC",
+    description: "UP SHOLARSHIP FOR PREMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -376,7 +376,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
@@ -388,7 +388,7 @@ let scholarships = [{
     photo: "phtos/1.jpg"
 },
 {
-    desc: "UP SHOLARSHIP FOR POSTMATRIC",
+    description: "UP SHOLARSHIP FOR POSTMATRIC",
     country: "INDIA",
     state: "uttar pradesh",
     category: "obc",
