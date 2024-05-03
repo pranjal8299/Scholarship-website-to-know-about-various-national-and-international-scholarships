@@ -8,12 +8,11 @@
     display: block;
     width: 100%;
     height: auto;
-    filter: blur(1px); 
 }
 
 .description {
     position: absolute;
-    bottom: 40px; 
+    bottom: 35px; 
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(0, 0, 0, 0.5); 
@@ -25,8 +24,8 @@
 }
 
 .visit-link {
-    position: absolute;
-    bottom: 10px;
+    position:absolute;
+    bottom: 0px;
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(255, 255, 255, 0.7); 
@@ -35,4 +34,5 @@
     border-radius: 5px;
     text-align: center;
     z-index: 1; 
+    font-size: 14px;
 }

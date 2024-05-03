@@ -7,6 +7,7 @@
     display: inline-block;
     margin-right: 5%; /* Adjust distance between images */
     margin-left: 5%;
+    border: 2px solid rgb(194, 194, 197);
 }
 
 .image-container img {

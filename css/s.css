@@ -6,6 +6,7 @@
     display: inline-block;
     margin-right: 5%;
     margin-left: 5%;
+    border: 2px solid rgb(181, 189, 192);
 }
 
 .image-container img {
