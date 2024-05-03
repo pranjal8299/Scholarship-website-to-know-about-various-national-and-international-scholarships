@@ -6,7 +6,7 @@ body {
 }
 
 select {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     padding: 5px;
 }
 
@@ -45,5 +45,18 @@ a:hover {
 .search{
     color: rgb(6, 49, 92);
     background-color: rgb(206, 230, 230);
-    
+    padding-bottom: 50px;
+    position: relative;
+    border: 2px solid rgb(29, 56, 61);
+}
+.ligoimage {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.ligoimage img {
+    max-height: 90px; /* Adjust the max-height of the logo image */
+    margin-right: 0px; /* Add some spacing between the logo and the floating menu */
 }

@@ -1,0 +1,115 @@
+.footer {
+    background-color: #ccc;
+    color:rgb(15, 56, 110);
+    padding: 50px 0;
+    position: absolute;
+    width: 100%;
+    border: 2px solid rgb(94, 92, 92);
+    bottom: 0px;
+    height: 200px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 0 20px;
+    margin-bottom: 0px;
+}
+
+.footer-section h2 {
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: #100a0a;
+    text-decoration: none;
+}
+
+.contact-input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #140404;
+    background-color: transparent;
+    color: #fff;
+}
+
+.contact-btn {
+    display: inline-block;
+    background-color: #f00;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.footer-bottom {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 10px;
+}
+.social-icons {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center; 
+  }
+  
+  .social-icons li {
+    margin-right: 20px; 
+  }
+  
+  .social-icons a {
+    font-size: 16px; 
+    color: inherit; 
+  }
+  
+  
+  .social-icons a:hover {
+    opacity: 0.8; 
+  }
+  
+  
+  .social-icons a[href*="instagram.com"] i {
+    color: #e4405f; 
+  }
+ 
+  .social-icons a[href*="twitter.com"] i {
+    color: #1da1f2; 
+  }
+  
+  
+  .social-icons a[href*="mailto:"] i {
+    color: #ea4335; 
+  }
+  #linksContainer {
+    position: absolute;
+    top: 100%; /* Position below the search button */
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    padding: 20px; /* Add padding to the search results container */
+    display: block;
+    max-height: 200px; /* Set a maximum height to maintain aspect ratio */
+    height: 00px;
+}
