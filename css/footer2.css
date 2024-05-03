@@ -111,5 +111,5 @@
     padding: 20px; /* Add padding to the search results container */
     display: block;
     max-height: 200px; /* Set a maximum height to maintain aspect ratio */
-    height: 00px;
+    height: 0px;
 }

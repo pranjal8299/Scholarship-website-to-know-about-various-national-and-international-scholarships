@@ -63,18 +63,32 @@ function displayScholarships(scholarshipsToDisplay) {
         let textOverlay = document.createElement('div');
         textOverlay.classList.add('text-overlay');
         textOverlay.innerHTML = `
-            <p>Description: ${scholarship.desc}</p>
-            <p>State: ${scholarship.state}</p>
-            <p>Category: ${scholarship.category}</p>
-            <p>Gender: ${scholarship.gender}</p>
-            <p>Class: ${scholarship.class}</p>
-            <p>Country: ${scholarship.country || 'N/A'}</p>
-            <p><a href="${scholarship.visit_website}" target="_blank">Visit Website</a></p>
+            <p class="description">${scholarship.description}</p>
+            <div class="details">
+                <p>State: ${scholarship.state}</p>
+                <p>Category: ${scholarship.category}</p>
+                <p>Gender: ${scholarship.gender}</p>
+                <p>Class: ${scholarship.class}</p>
+                <p>Country: ${scholarship.country || 'N/A'}</p>
+                <p><a href="${scholarship.visit_website}" target="_blank">Visit Website</a></p>
+            </div>
         `;
 
         container.appendChild(image);
         container.appendChild(textOverlay);
         linksContainer.appendChild(container);
+
+        // Hide details initially
+        let details = textOverlay.querySelector('.details');
+        details.style.display = 'none';
+
+        // Add event listener for hover effect
+        container.addEventListener('mouseenter', () => {
+            details.style.display = 'block';
+        });
+        container.addEventListener('mouseleave', () => {
+            details.style.display = 'none';
+        });
     });
 
     if (scholarshipsToDisplay.length === 0) {

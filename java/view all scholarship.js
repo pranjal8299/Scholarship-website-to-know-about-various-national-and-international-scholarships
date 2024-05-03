@@ -915,26 +915,21 @@ function displayDetailsOnHover(scholarship, container) {
     detailsContainer.classList.add('text-overlay');
 
     let detailsHTML = `
-    <p><strong>Description:</strong> ${scholarship.description}</p>
     <p><strong>Country:</strong> ${scholarship.country}</p>
     <p><strong>State:</strong> ${scholarship.state}</p>
     <p><strong>Category:</strong> ${scholarship.category}</p>
-    <p><strong>gender:</strong> ${scholarship.gender}</p>
-    <p><strong>class:</strong> ${scholarship.class}</p>
-    <p><strong>university:</strong> ${scholarship.university}</p>
+    <p><strong>Gender:</strong> ${scholarship.gender}</p>
+    <p><strong>Class:</strong> ${scholarship.class}</p>
+    <p><strong>University:</strong> ${scholarship.university}</p>
     <div class="links">
         <a href="${scholarship.visit_website}" target="_blank">Visit Website</a>
-        <a href="${scholarship.information}" target="_blank">information</a>
+        <a href="${scholarship.information}" target="_blank">Information</a>
     </div>
-    
     `;
 
     detailsContainer.innerHTML = detailsHTML;
     container.appendChild(detailsContainer);
-
-    detailsContainer.addEventListener('mouseleave', function() {
-        detailsContainer.style.opacity = 0;
-    });
+    container.appendChild(detailsContainer);
 }
 
 function displayAll(data) {
@@ -946,18 +941,23 @@ function displayAll(data) {
     }
 
     data.forEach(scholarship => {
-        let imageContainer = document.createElement('div');
-        imageContainer.classList.add('image-container');
+        let container = document.createElement('div');
+        container.classList.add('image-container');
+
+        let description = document.createElement('div');
+        description.classList.add('description');
+        description.textContent = scholarship.description;
+        container.appendChild(description);
 
         let image = document.createElement('img');
         image.src = scholarship.photo;
 
         image.addEventListener('mouseenter', function() {
-            displayDetailsOnHover(scholarship, imageContainer);
+            displayDetailsOnHover(scholarship, container);
         });
 
-        imageContainer.appendChild(image);
-        linksContainer.appendChild(imageContainer);
+        container.appendChild(image);
+        linksContainer.appendChild(container);
     });
 }
 
