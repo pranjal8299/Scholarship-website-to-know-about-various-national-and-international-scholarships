@@ -12,7 +12,7 @@
 }
 
 .image-container .description {
-    background-color: rgba(15, 55, 69, 0.7); /* Semi-transparent black background */
+    background-color: rgba(15, 55, 69); /* Semi-transparent black background */
     color: white;
     padding: 10px;
     position: absolute;
@@ -29,6 +29,7 @@
     max-height: 470px; /* Set maximum height for the image */
     object-fit: cover; /* Maintain aspect ratio */
     transition: filter 0.3s ease; /* Add transition for smooth effect */
+    filter: blur(3px);
 }
 
 /* CSS for text overlay */
@@ -39,7 +40,7 @@
     transform: translateX(-50%);
     color: white;
     font-size: 14px;
-    background-color: rgba(15, 55, 69, 0.7); /* Semi-transparent black background */
+    background-color: rgba(15, 55, 69,0.7); /* Semi-transparent black background */
     padding: 10px;
     border-radius: 5px;
     transition: opacity 0.3s ease; /* Add transition for smooth effect */
