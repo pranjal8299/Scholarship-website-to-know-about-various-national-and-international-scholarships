@@ -1,5 +1,5 @@
 body {
-        margin: 0;
+        margin: 0px;
         padding: 0;
         font-family: 'Montserrat', sans-serif;
         background-color: #fff;
@@ -11,37 +11,37 @@ body {
 }
 
 .ligoimage img {
-    max-height: 200px; /* Adjust the max-height of the logo image */
-    margin-right: 0px; /* Add some spacing between the logo and the floating menu */
+    max-height: 120px;
+    margin-right: 0px;
 }
 
 .floating {
     background-color: rgb(35 163 163);
     color: rgb(234, 233, 245);
-    height: 100px; /* Adjust the height as needed */
-    width: auto; /* Set width to auto to fit content */
+    height: 100px;
+    width: auto;
     display: flex;
     align-items: center;
-    justify-content: flex-end; /* Align items to the right */
-    padding: 0 0px; /* Add padding to the left and right */
+    justify-content: flex-end;
+    padding: 0 0px; 
 }
 
 .floating ul {
     list-style: none;
     display: flex;
-    align-items: center; /* Align items vertically */
+    align-items: center; 
     margin: 10px;
     padding: 10px;
 }
 
 .floating ul li {
-    padding: 0 20px; /* Add padding to the left and right */
+    padding: 0 20px;
 }
 
 .floating ul li a {
     color: rgb(245, 243, 243);
     text-decoration: none;
-    font-size: 14px; /* Adjust font size as needed */
+    font-size: 14px;
 }
 .menu {
     display: flex;
@@ -62,7 +62,8 @@ body {
     font-size: 1.5em;
 }
 body {
-    padding: 20px;
+    padding: 0px;
+    margin-left: 5px;
 }
 
 p {
@@ -147,22 +148,23 @@ a:hover {
 
 .viewall_scholarship ul li a p {
     color: rgb(234, 233, 245); 
-    margin: 10;
+    margin-right: 14px;
 }
 .viewall_scholarship p {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 17px;
 }
 
 .viewall_scholarship img {
-    width: 50px; /* Adjust width as needed */
-    margin-left: 5px; /* Add spacing between the text and logo */
+    width: 30px;
+    margin-left: 5px; 
 }
 
 
 .viewall_scholarship .logo {
-    font-weight: bold; /* Optionally make the word "Scholarship" bold */
+    font-weight: bold; 
 }
 
 
@@ -195,7 +197,7 @@ a:hover {
 
 .viewall_scholarship2 ul li a p {
     color: rgb(234, 233, 245); 
-    margin: 10;
+    margin-left: 14.5px;
 }
 
 

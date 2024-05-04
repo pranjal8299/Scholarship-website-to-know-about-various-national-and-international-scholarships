@@ -2,128 +2,141 @@
 <html lang="en">
 <head>
     <link rel="icon" type="image/x-icon" href="phtos/logo.jpg">
-    <link rel="stylesheet" href="css/k.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/body.css">
-    <link rel="stylesheet" href="css/footer2.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Find Scholarships according to you</title>
+    <link rel="stylesheet" href="css/k.css">
+    <link rel="stylesheet" href="css/filter.css">
+    <link rel="stylesheet" href="css/navbar.css">
 </head>
 <body>
-    <article class="search">
-    <article class="ligoimage">
+    <div class="navbar">
         <a href="index.html">
-            <img src="phtos/logo.jpg" alt="logo">
-          </a>
-    <label for="present_class">Present Class</label>
-    <select name="present_class" id="present_class">
-        <option value="" selected>Class</option>
-        <option value="Graduation">Graduation</option>
-        <option value="under 10">under 10</option>
-        <option value="under 8">under 8</option>
-        <option value="12">12</option>
-        <option value="Post Graduation">Post Graduation</option>
-        <option value="Phd">Phd</option>
-    </select>
+            <img src="phtos/logo.jpg" alt="Logo">
+        </a>
+        <a href="index.html">Home</a>
+        <a href="view all scholarship.html">All Scholarship</a>
+        <a href="girls_scholarship.html">Girls Scholarship</a>
+        <a href="college_scholarship.html">College Scholarship</a>
+        <a href="state_wise.html">State Scholarship</a>
+        <a href="international_scholarship.html">International Scholarship</a>
+        <a href="student_with_disability.html">PWD Students</a>
+        <a href="search.html"><img src="phtos/search logo1.png" alt="Logo"></a>
+    </div>
+    
+    <article class="search">
+        <h1>Find Scholarships</h1>
+        <div>
+            <div>
+                <label for="present_class">Present Class</label>
+                <select name="present_class" id="present_class">
+                    <option value="" selected>Class</option>
+                    <option value="Graduation">Graduation</option>
+                    <option value="under 10">under 10</option>
+                    <option value="under 8">under 8</option>
+                    <option value="12">12</option>
+                    <option value="Post Graduation">Post Graduation</option>
+                    <option value="Phd">Phd</option>
+                </select>
+            </div>
+            <div>
+                <label for="gender">Gender</label>
+                <select name="gender" id="gender">
+                    <option value="">Gender</option>
+                    <option value="M">M</option>
+                    <option value="F">F</option>
+                    <option value="other">Other</option>
+                    <option value="everyone">everyone</option>
+                </select>
+            </div>
+        </div>
 
-    <label for="gender">Gender</label>
-    <select name="gender" id="gender">
-        <option value="">Gender</option>
-        <option value="M">M</option>
-        <option value="F">F</option>
-        <option value="other">Other</option>
-        <option value="everyone">everyone</option>
-    </select>
+        <label for="country">Country</label>
+        <select name="country" id="country">
+            <option value="">Country</option>>
+            <option value="INDIA">INDIA</option>
+        </select>
 
-    <label for="country">Country</label>
-    <select name="country" id="country">
-        <option value="">Country</option>>
-        <option value="INDIA">INDIA</option>
-    </select>
+        <label for="state">State</label>
+        <select name="state" id="state">
+            <option value="">State</option>
+            <option value="all over india">All over india</option>
+            <option value="Andhra Pradesh">Andhra Pradesh</option>
+            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+            <option value="assam">Assam</option>
+            <option value="Bihar">Bihar</option>
+            <option value="Chhattisgarh">Chhattisgarh</option>
+            <option value="Goa">Goa</option>
+            <option value="Gujarat">Gujarat</option>
+            <option value="haryana">Haryana</option>
+            <option value="Himachal Pradesh">Himachal Pradesh</option>
+            <option value="Jharkhand">Jharkhand</option>
+            <option value="Karnataka">Karnataka</option>
+            <option value="Kerala">Kerala</option>
+            <option value="Madhya Pradesh">Madhya Pradesh</option>
+            <option value="Maharashtra">Maharashtra</option>
+            <option value="Manipur">Manipur</option>
+            <option value="Meghalaya">Meghalaya</option>
+            <option value="Mizoram">Mizoram</option>
+            <option value="Nagaland">Nagaland</option>
+            <option value="Odisha">Odisha</option>
+            <option value="Punjab">Punjab</option>
+            <option value="Rajasthan">Rajasthan</option>
+            <option value="Sikkim">Sikkim</option>
+            <option value="Tamil Nadu">Tamil Nadu</option>
+            <option value="Telangana">Telangana</option>
+            <option value="Tripura">Tripura</option>
+            <option value="uttar pradesh">Uttar Pradesh</option>
+            <option value="Uttarakhand">Uttarakhand</option>
+            <option value="West Bengal">West Bengal</option>
+        </select>
 
-    <label for="state">State</label>
-    <select name="state" id="state">
-    <option value="">State</option>
-    <option value="all over india">All over india</option>
-    <option value="Andhra Pradesh">Andhra Pradesh</option>
-    <option value="Arunachal Pradesh">Arunachal Pradesh</option>
-    <option value="assam">Assam</option>
-    <option value="Bihar">Bihar</option>
-    <option value="Chhattisgarh">Chhattisgarh</option>
-    <option value="Goa">Goa</option>
-    <option value="Gujarat">Gujarat</option>
-    <option value="haryana">Haryana</option>
-    <option value="Himachal Pradesh">Himachal Pradesh</option>
-    <option value="Jharkhand">Jharkhand</option>
-    <option value="Karnataka">Karnataka</option>
-    <option value="Kerala">Kerala</option>
-    <option value="Madhya Pradesh">Madhya Pradesh</option>
-    <option value="Maharashtra">Maharashtra</option>
-    <option value="Manipur">Manipur</option>
-    <option value="Meghalaya">Meghalaya</option>
-    <option value="Mizoram">Mizoram</option>
-    <option value="Nagaland">Nagaland</option>
-    <option value="Odisha">Odisha</option>
-    <option value="Punjab">Punjab</option>
-    <option value="Rajasthan">Rajasthan</option>
-    <option value="Sikkim">Sikkim</option>
-    <option value="Tamil Nadu">Tamil Nadu</option>
-    <option value="Telangana">Telangana</option>
-    <option value="Tripura">Tripura</option>
-    <option value="uttar pradesh">Uttar Pradesh</option>
-    <option value="Uttarakhand">Uttarakhand</option>
-    <option value="West Bengal">West Bengal</option>
-    </select>
+        <label for="category">Category</label>
+        <select name="category" id="category">
+            <option value="">Category</option>
+            <option value="sc">sc</option>
+            <option value="st">st</option>
+            <option value="obc">obc</option>
+            <option value="General">General</option>
+        </select>
 
-    <label for="category">Category</label>
-    <select name="category" id="category">
-        <option value="">Category</option>
-        <option value="sc">sc</option>
-        <option value="st">st</option>
-        <option value="obc">obc</option>
-        <option value="General">General</option>
-    </select>
+        <button id="button" onclick="refresh()">Search Your Scholarships</button>
 
-    <button id="button" onclick="refresh()">Search Your Scholarships</button>
-
-    <div id="linksContainer" class="mt-4"></div>
+        <div id="linksContainer" class="mt-4"></div>
     </article>
-</article>
 
-<footer class="footer">
-    <div class="dontainer">
-      <div class="footer-content">
-        <div class="footer-section about">
-          <h2>About Us</h2>
-          <ul>
-            <li><a href="about_Get_Scholarship.html" target="_blank">about us</a></li>
-          </ul>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section about">
+                    <h2>About Us</h2>
+                    <ul>
+                        <li><a href="about_Get_Scholarship.html" target="_blank">About Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section links">
+                    <h2>Quick Links</h2>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about_scholarship.html">About</a></li>
+                        <li><a href="https://scholarships.gov.in/">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section contact-form">
+                    <h2>Contact Us</h2>
+                    <ul class="social-icons">
+                        <li><a href="https://www.instagram.com/insp_pra_g_t">Instagram</a></li>
+                        <li><a href="https://twitter.com/pranjal8299">Twitter</a></li>
+                        <li><a href="mailto:parasg8799gupta@gmail.com">Mail To</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class="footer-section links">
-          <h2>Quick Links</h2>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about_scholarship.html">About</a></li>
-            <li><a href="https://scholarships.gov.in/">Contact</a></li>
-          </ul>
+        <div class="footer-bottom">
+            &copy; 2024 Get Scholarship. All rights reserved.
         </div>
-        <div class="footer-section contact-form">
-          <h2>Contact Us</h2>
-          <ul class="social-icons">
-            <li><a href="https://www.instagram.com/insp_pra_g_t">instagram</a></li>
-            <li><a href="https://twitter.com/pranjal8299">twitter</a></li>
-            <li><a href="mailto:parasg8799gupta@gmail.com">Mail-To</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      &copy; 2024 Get Scholarship. All rights reserved.
-    </div>
-  </footer>
-
-
+    </footer>
 </body>
 <script src="java/filter.js"></script>
 </html>

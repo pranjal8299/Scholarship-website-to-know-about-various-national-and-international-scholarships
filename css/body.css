@@ -3,10 +3,12 @@ body {
     background-color: #ffffff;
     margin: 0;
     padding: 0;
+    margin-top: 2px;
+    text-align: left;
 }
 
 select {
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     padding: 5px;
 }
 
@@ -57,6 +59,6 @@ a:hover {
 }
 
 .ligoimage img {
-    max-height: 90px; /* Adjust the max-height of the logo image */
-    margin-right: 0px; /* Add some spacing between the logo and the floating menu */
+    max-height: 90px; 
+    margin-right: 0px; 
 }

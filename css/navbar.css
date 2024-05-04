@@ -1,0 +1,23 @@
+.navbar {
+    background-color:rgb(35 163 163); 
+    color: #fff;
+    overflow: hidden;
+    flex-wrap: unset;
+}
+.navbar img {
+    height: 50px;
+    padding: 0px; 
+}
+.navbar a {
+    float: left; 
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 1px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.navbar a:hover {
+    background-color: #9dd0d7; 
+    color: #333;
+}
