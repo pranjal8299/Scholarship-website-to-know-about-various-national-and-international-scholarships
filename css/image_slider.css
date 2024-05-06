@@ -42,6 +42,7 @@
   opacity: 1;
   transform: translateX(600px);
   transition: all 0.7s ease-in-out 0.3s;
+  background-color: rgba(152, 181, 193, 0.856);
 }
 
 .buttons button#next {
