@@ -213,7 +213,7 @@ let scholarships = [
     gender: "M,F",
     class: "12",
     state: "all over india",
-    university: "mahipal etc.",
+    university: "mahipal",
     visit_website: "https://www.collegeboard.org",
     information: "https://www.buddy4study.com/collegeboard",
     photo: "phtos/4.jpg"
