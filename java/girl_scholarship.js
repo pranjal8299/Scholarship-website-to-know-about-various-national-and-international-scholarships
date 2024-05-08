@@ -723,18 +723,30 @@ function matchAndDisplay(data, gender) {
         let textOverlay = document.createElement('div');
         textOverlay.classList.add('text-overlay');
         textOverlay.innerHTML = `
-            <p>desc: ${scholarship.desc}</p>
+        <p class="description">${scholarship.desc}</p>
+        <div class="details" style="display: none;">
             <p>Country: ${scholarship.country}</p>
-            <p>state: ${scholarship.state}</p>
+            <p>State: ${scholarship.state}</p>
             <p>Category: ${scholarship.category}</p>
-            <p>university: ${scholarship.university}</p>
+            <p>Gender: ${scholarship.gender}</p>
             <p>Class: ${scholarship.class}</p>
             <p><a href="${scholarship.visit_website}" target="_blank">Visit Website</a></p>
+        </div>
         `;
 
         container.appendChild(image);
         container.appendChild(textOverlay);
         linksContainer.appendChild(container);
+
+        container.addEventListener('mouseenter', () => {
+            textOverlay.querySelector('.description').style.display = 'none';
+            textOverlay.querySelector('.details').style.display = 'block';
+        });
+
+        container.addEventListener('mouseleave', () => {
+            textOverlay.querySelector('.description').style.display = 'block';
+            textOverlay.querySelector('.details').style.display = 'none';
+        });
     }
 }
 

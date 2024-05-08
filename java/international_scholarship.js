@@ -78,11 +78,9 @@ function displayScholarships(scholarshipsToDisplay) {
         container.appendChild(textOverlay);
         linksContainer.appendChild(container);
 
-        // Hide details initially
         let details = textOverlay.querySelector('.details');
         details.style.display = 'none';
 
-        // Add event listener for hover effect
         container.addEventListener('mouseenter', () => {
             details.style.display = 'block';
         });

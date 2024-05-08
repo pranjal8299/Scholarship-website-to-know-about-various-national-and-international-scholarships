@@ -1,15 +1,4 @@
-let scholarships = [{
-    description: "COLLEGE BOARD INDIA SCHOLARS PROGRAM",
-    country: "INDIA",
-    category: "all",
-    gender: "M,F",
-    class: "12",
-    state: "all over india",
-    university: "mahipal etc.",
-    visit_website: "https://www.collegeboard.org",
-    information: "https://www.buddy4study.com/collegeboard",
-    photo: "phtos/4.jpg"
-},
+let scholarships = [
 {
     description: "IET India Scholarship Award 2024",
     country: "INDIA",
@@ -611,7 +600,7 @@ function displayAllScholarships() {
             let textOverlay = document.createElement('div');
             textOverlay.classList.add('text-overlay');
             textOverlay.innerHTML = `
-                <p>Description: ${scholarship.desc}</p>
+                <p>Description: ${scholarship.description}</p>
                 <p>Country: ${scholarship.country}</p>
                 <p>State: ${scholarship.state}</p>
                 <p>Gender: ${scholarship.gender}</p>

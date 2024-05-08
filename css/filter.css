@@ -21,6 +21,9 @@ body {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
   text-align: center; 
 }
+.search h1{
+  margin-bottom: 30px;
+}
 .search label {
   display: inline-block; 
   width: calc(50% - 20px);
@@ -44,6 +47,7 @@ body {
   border: none;
   cursor: pointer;
   border-radius: 30px;
+  margin-top: 20px;
 }
 .search button:hover {
   background-color: #386363; 

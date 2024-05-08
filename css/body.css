@@ -42,8 +42,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-
 .search{
     color: rgb(6, 49, 92);
     background-color: rgb(206, 230, 230);
@@ -61,4 +59,12 @@ a:hover {
 .ligoimage img {
     max-height: 90px; 
     margin-right: 0px; 
+}
+.mt-4 {
+    margin: 1.5rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: rgb(35 163 163);
+    border-radius: 200px;
 }

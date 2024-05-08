@@ -47,13 +47,13 @@
 
 .buttons button#next {
   position: absolute;
-  top: 128%;
+  top: 115%;
   right: 0px;
 }
 
 .buttons button#prev {
   position: absolute;
-  top: 125%;
+  top: 112%;
   left: 10px;
 }
 
