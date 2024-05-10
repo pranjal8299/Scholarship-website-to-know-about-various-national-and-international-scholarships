@@ -7,8 +7,9 @@ let scholarships = [{
     state: "all over india",
     university: "mahipal etc.",
     visit_website: "https://www.collegeboard.org",
-    // information: "https://www.buddy4study.com/collegeboard",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/collegeboard",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "IET India Scholarship Award 2024",
@@ -20,8 +21,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.theietevents.com",
-    // information: "https://www.buddy4study.com/page/iet-india-scholarship-awards?utm_source=featuredBlocks",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/page/iet-india-scholarship-awards?utm_source=featuredBlocks",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -34,7 +36,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -46,7 +49,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
+
 },
 
 
@@ -66,7 +71,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -78,7 +84,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -90,7 +97,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -102,7 +110,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -114,7 +123,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -126,7 +136,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -138,7 +149,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -150,7 +162,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -162,7 +175,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -174,7 +188,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -186,7 +201,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -198,7 +214,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -210,7 +227,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -222,7 +240,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -234,7 +253,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -246,7 +266,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -258,7 +279,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -270,7 +292,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -282,7 +305,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -294,7 +318,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -306,7 +331,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -318,7 +344,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -330,7 +357,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -342,7 +370,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -354,7 +383,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -366,7 +396,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -378,7 +409,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -390,7 +422,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -402,7 +435,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -414,7 +448,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR PREMATRIC",
@@ -426,7 +461,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -438,7 +474,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "UP SHOLARSHIP FOR POSTMATRIC",
@@ -450,7 +487,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in/RegistrationNew.aspx",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 
 
@@ -472,7 +510,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -484,7 +523,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -496,8 +536,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -510,7 +551,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Aspire Leaders Program 2024",
@@ -522,7 +564,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://apply.aspireleaders.org/templates/64d671753b5d001c53000753/start",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },{
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
     country: "INDIA",
@@ -533,7 +576,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -546,7 +590,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -558,8 +603,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "CENTRAL SECTOR SCHEME OF SCHOLARSHIPS FOR COLLEGE AND UNIVERSITY STUDENTS",
@@ -571,8 +617,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -584,7 +631,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -596,7 +644,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -609,7 +658,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },{
     desc: "COLLEGE BOARD INDIA SCHOLARS PROGRAM",
     country: "INDIA",
@@ -619,8 +669,9 @@ let scholarships = [{
     state: "all over india",
     university: "mahipal etc.",
     visit_website: "https://www.collegeboard.org",
-    // information: "https://www.buddy4study.com/collegeboard",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/collegeboard",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -632,7 +683,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -644,8 +696,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP FOR SC STUDENTS - ASSAM",
@@ -657,8 +710,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in/",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/Assam_Post_Matric_guideline.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/Assam_Post_Matric_guideline.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -670,7 +724,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "PRE MATRIC SCHOLARSHIP TO OBC STUDENTS (CLASS 9 AND CLASS 10) -ASSAM",
@@ -682,8 +737,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -695,7 +751,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "PRE MATRIC SCHOLARSHIP TO ST STUDENTS (CLASS IX AND X) - ASSAM",
@@ -707,8 +764,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -720,7 +778,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -732,8 +791,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP TO OBC STUDENTS - ASSAM",
@@ -745,8 +805,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP TO ST STUDENTS - ASSAM",
@@ -758,8 +819,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for OBC Students, Uttar Pradesh 2023-24",
@@ -771,8 +833,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_qaqeTF.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_qaqeTF.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -784,7 +847,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -796,7 +860,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -808,7 +873,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "University of Sheffield International UG Merit Scholarship 2024",
@@ -820,7 +886,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-merit-scholarship",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "British Council Scholarship for Women in STEM 2024",
@@ -833,7 +900,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -845,7 +913,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -857,7 +926,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -869,7 +939,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Merit-cum-Means Scholarships",
@@ -881,7 +952,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Ford Foundation Scholarships",
@@ -893,7 +965,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Prof. Ramesha Rao Scholarship and Travel Grant",
@@ -905,7 +978,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Balak Ram Scholarship	",
@@ -917,8 +991,9 @@ let scholarships = [{
     company: "",
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
-    // information: "https://www.du.ac.in/uploads/scholarships/21082014_UG_1.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.du.ac.in/uploads/scholarships/21082014_UG_1.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "*Shri Ram Lubhaya Book-Grant (Blind Students)	",
@@ -931,8 +1006,9 @@ let scholarships = [{
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
     // pwd: "yes",
-    // information: "https://www.du.ac.in/uploads/scholarships/01092018_sh-ram-lubhaya.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.du.ac.in/uploads/scholarships/01092018_sh-ram-lubhaya.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Vijender Sharmila Chopra Book-Grant (Blind Students)	",
@@ -945,8 +1021,9 @@ let scholarships = [{
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
     // pwd: "yes",
-    // information: "https://www.du.ac.in/uploads/scholarships/01092018_vijendra-sharmila-chopra.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.du.ac.in/uploads/scholarships/01092018_vijendra-sharmila-chopra.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Merit-cum-Means Scholarships",
@@ -958,7 +1035,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "COLLEGE BOARD INDIA SCHOLARS PROGRAM",
@@ -969,8 +1047,9 @@ let scholarships = [{
     state: "all over india",
     university: "mahipal etc.",
     visit_website: "https://www.collegeboard.org",
-    // information: "https://www.buddy4study.com/collegeboard",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/collegeboard",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "IET India Scholarship Award 2024",
@@ -982,8 +1061,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.theietevents.com",
-    // information: "https://www.buddy4study.com/page/iet-india-scholarship-awards?utm_source=featuredBlocks",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/page/iet-india-scholarship-awards?utm_source=featuredBlocks",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -996,7 +1076,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -1008,7 +1089,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Aapki Beti Hamari Beti Scheme, Haryana",
@@ -1020,7 +1102,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://wcdhry.gov.in/schemes-for-children/abhb",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1033,7 +1116,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -1045,7 +1129,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -1057,8 +1142,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1071,7 +1157,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Aspire Leaders Program 2024",
@@ -1083,7 +1170,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://apply.aspireleaders.org/templates/64d671753b5d001c53000753/start",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },{
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
     country: "INDIA",
@@ -1094,7 +1182,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1107,7 +1196,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -1119,8 +1209,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "CENTRAL SECTOR SCHEME OF SCHOLARSHIPS FOR COLLEGE AND UNIVERSITY STUDENTS",
@@ -1132,8 +1223,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -1145,7 +1237,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -1157,7 +1250,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1170,7 +1264,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://scholarships.gov.in",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },{
     desc: "COLLEGE BOARD INDIA SCHOLARS PROGRAM",
     country: "INDIA",
@@ -1180,8 +1275,9 @@ let scholarships = [{
     state: "all over india",
     university: "mahipal etc.",
     visit_website: "https://www.collegeboard.org",
-    // information: "https://www.buddy4study.com/collegeboard",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://www.buddy4study.com/collegeboard",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -1193,7 +1289,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -1205,8 +1302,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP FOR SC STUDENTS - ASSAM",
@@ -1218,8 +1316,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in/",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/Assam_Post_Matric_guideline.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/Assam_Post_Matric_guideline.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -1231,7 +1330,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "PRE MATRIC SCHOLARSHIP TO OBC STUDENTS (CLASS 9 AND CLASS 10) -ASSAM",
@@ -1243,8 +1343,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -1256,7 +1357,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "PRE MATRIC SCHOLARSHIP TO ST STUDENTS (CLASS IX AND X) - ASSAM",
@@ -1268,8 +1370,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -1281,7 +1384,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh 2023-24",
@@ -1293,8 +1397,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_QgR22Z.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP TO OBC STUDENTS - ASSAM",
@@ -1306,8 +1411,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "POST MATRIC SCHOLARSHIP TO ST STUDENTS - ASSAM",
@@ -1319,8 +1425,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    // information: "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Pre Matric Scholarship for OBC Students, Uttar Pradesh 2023-24",
@@ -1332,8 +1439,9 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    // information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_qaqeTF.pdf",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_qaqeTF.pdf",
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -1345,7 +1453,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh 2023-24",
@@ -1357,7 +1466,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Post-Matric (Other than Intermediate) Scholarship for ST, SC, General Category, Uttar Pradesh 2023-24",
@@ -1369,7 +1479,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "University of Sheffield International UG Merit Scholarship 2024",
@@ -1381,7 +1492,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-merit-scholarship",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "British Council Scholarship for Women in STEM 2024",
@@ -1394,7 +1506,8 @@ let scholarships = [{
     university: "",
     visit_website: "https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships",
 
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -1406,7 +1519,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -1418,7 +1532,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Banaras Hindu University (BHU)",
@@ -1430,7 +1545,8 @@ let scholarships = [{
     company: "",
     university: "BHU",
     visit_website: "https://scholarship.up.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Merit-cum-Means Scholarships",
@@ -1442,7 +1558,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Ford Foundation Scholarships",
@@ -1454,7 +1571,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Prof. Ramesha Rao Scholarship and Travel Grant",
@@ -1466,7 +1584,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Balak Ram Scholarship	",
@@ -1478,7 +1597,8 @@ let scholarships = [{
     company: "",
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "*Shri Ram Lubhaya Book-Grant (Blind Students)	",
@@ -1490,7 +1610,8 @@ let scholarships = [{
     company: "",
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Vijender Sharmila Chopra Book-Grant (Blind Students)	",
@@ -1502,7 +1623,8 @@ let scholarships = [{
     company: "",
     university: "DU",
     visit_website: "https://www.du.ac.in/index.php?page=opportunities-scholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Merit-cum-Means Scholarships",
@@ -1514,7 +1636,8 @@ let scholarships = [{
     company: "",
     university: "JNU",
     visit_website: "https://www.jnu.ac.in/content/fellowshipsscholarships",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "COLLEGE BOARD INDIA SCHOLARS PROGRAM",
@@ -1525,7 +1648,8 @@ let scholarships = [{
     state: "all over india",
     university: "mahipal etc.",
     visit_website: "https://www.collegeboard.org",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "IET India Scholarship Award 2024",
@@ -1537,7 +1661,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.theietevents.com",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1549,7 +1674,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -1561,7 +1687,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Aapki Beti Hamari Beti Scheme, Haryana",
@@ -1573,7 +1700,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://wcdhry.gov.in/schemes-for-children/abhb",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Scholarship by govt of india",
@@ -1585,7 +1713,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://scholarships.gov.in",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 },
 {
     desc: "Gujarat Government’s Study Abroad Loan Scheme",
@@ -1597,7 +1726,8 @@ let scholarships = [{
     company: "",
     university: "",
     visit_website: "https://sje.gujarat.gov.in/ddcw/schemes",
-    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg"
+    photo: "phtos/WhatsApp Image 2024-04-17 at 14.01.04_adc626ca.jpg",
+    information: "https://s3-ap-southeast-1.amazonaws.com/cdn.buddy4study.com/static/scholarship_docs/download-form_O58u5H.pdf",
 }
 ];
 
@@ -1643,6 +1773,12 @@ function matchAndDisplay(data, country, state, gender, scholarshipClass, categor
             visitLink.textContent = "Visit Link";
             visitLink.classList.add('visit-link');
             imageContainer.appendChild(visitLink);
+
+            let information = document.createElement('a');
+            information.href = scholarship.information;
+            information.textContent = "information";
+            information.classList.add('information');
+            imageContainer.appendChild(information);
 
             linksContainer.appendChild(imageContainer);
         }

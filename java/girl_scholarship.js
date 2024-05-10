@@ -731,6 +731,7 @@ function matchAndDisplay(data, gender) {
             <p>Gender: ${scholarship.gender}</p>
             <p>Class: ${scholarship.class}</p>
             <p><a href="${scholarship.visit_website}" target="_blank">Visit Website</a></p>
+            <p><a href="${scholarship.information}" target="_blank">information</a></p>
         </div>
         `;
 

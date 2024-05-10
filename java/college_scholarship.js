@@ -603,11 +603,11 @@ function displayAllScholarships() {
                 <p>Description: ${scholarship.description}</p>
                 <p>Country: ${scholarship.country}</p>
                 <p>State: ${scholarship.state}</p>
-                <p>Gender: ${scholarship.gender}</p>
                 <p>Category: ${scholarship.category}</p>
                 <p>Class: ${scholarship.class}</p>
                 <p>University: ${scholarship.university}</p>
                 <p><a href="${scholarship.visit_website}" target="_blank">Visit Website</a></p>
+                <p><a href="${scholarship.information}" target="_blank">information</a></p>
             `;
 
             container.appendChild(image);

@@ -929,7 +929,6 @@ function displayDetailsOnHover(scholarship, container) {
 
     detailsContainer.innerHTML = detailsHTML;
     container.appendChild(detailsContainer);
-    container.appendChild(detailsContainer);
 }
 
 function displayAll(data) {
